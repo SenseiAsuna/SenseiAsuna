@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SenseiAsuna
 - 👀 I’m interested in Gaming, Sports and Technological stuff!
-- 🌱 I’m currently learning C++ coding and Business
+- 🌱 I’m currently learning C++/C# and Business
 - 
 <!---
 SenseiAsuna/SenseiAsuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
